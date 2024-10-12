@@ -11,7 +11,7 @@ This is a dynamic frontend social media application built using **React**, **Boo
 ### Screenshots
 
 #### Home Page
-![Home Page](Social_Media_App_Homepage.png/Social)
+![Home Page](./Social_Media_App_Homepage.png)
 
 #### Create Post Page
 ![Create Post Page](./Social_Media_App_CreatePostPage.png)
