@@ -1,4 +1,4 @@
-# Social Media App
+# Social Media App v1.0
 
 This is a dynamic frontend social media application built using **React**, **Bootstrap**, **React-icons**, and **Vite**. The app allows users to create posts, view reactions, manage hashtags, and delete posts.
 
